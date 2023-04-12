@@ -122,7 +122,7 @@ ul{
     color: white;
     font-size: 30px;
 }
-.btn1{
+.btn{
     background-color: transparent;
     color: white;
     margin-top: 12px;
@@ -137,7 +137,7 @@ ul{
     font-size: 20px;
 
 }
-.btn1:hover{
+.btn:hover{
     color: black;
     background-color: white;
 } 
