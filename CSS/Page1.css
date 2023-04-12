@@ -3,7 +3,7 @@
 }
 
 .header{
-    background:linear-gradient(to top, rgb(0,0,0,0.5)70%, rgb(0,0,0,0.5)30%),url(/1731-2.jpg);
+    background:linear-gradient(to top, rgb(0,0,0,0.5)70%, rgb(0,0,0,0.5)30%),url(1731-2.jpg);
     box-sizing: border-box;
     scroll-behavior: smooth;
     width: 100%;
